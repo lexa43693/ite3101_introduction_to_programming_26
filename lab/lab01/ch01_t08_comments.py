@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-#just writ
+# just writing something
 city_pop = 340000
