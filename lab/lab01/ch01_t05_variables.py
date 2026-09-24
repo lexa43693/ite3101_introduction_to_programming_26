@@ -1,1 +1,1 @@
-todays_date = "24/9/2026"
+todays_date = "24-9-2026"
