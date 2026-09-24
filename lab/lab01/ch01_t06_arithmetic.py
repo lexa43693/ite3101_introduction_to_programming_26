@@ -1,2 +1,2 @@
 product = 1*1231/1234
-remainder = %
+remainder = 1398 % 11
