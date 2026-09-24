@@ -1,1 +1,1 @@
-todays_date = 24/
+todays_date = "24/
