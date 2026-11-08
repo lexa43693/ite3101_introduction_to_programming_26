@@ -4,6 +4,6 @@ bool_two = bool(-(-(-(-2))) == -2 and 4 >= 16 ** 0.5)
 
 bool_three = bool()
 
-bool_four = None
+bool_four = bool()
 
-bool_five = None
+bool_five = bool()
