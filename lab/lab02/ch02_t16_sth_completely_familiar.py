@@ -2,4 +2,4 @@
 
 my_string = "benkum"
 print(len(my_string))
-
+print(upper(my_string))
