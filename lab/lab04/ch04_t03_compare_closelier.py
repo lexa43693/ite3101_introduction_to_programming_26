@@ -8,10 +8,10 @@ bool_one = False  # We did this one for you!
 bool_two = bool()
 
 # 1**2 <= -1
-bool_three = None
+bool_three = bool()
 
 # 40 * 4 >= -4
-bool_four = None
+bool_four = bool()
 
 # 100 != 10**2
-bool_five = None
+bool_five = bool()
