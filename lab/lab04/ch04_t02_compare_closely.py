@@ -13,4 +13,4 @@ bool_three = bool(19 <= 19)
 bool_four = bool(-22 >= -18)
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
-bool_five = bool()
+bool_five = bool(99 != (98 + 1))
