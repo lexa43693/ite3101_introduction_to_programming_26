@@ -1,6 +1,6 @@
 bool_one = bool(False and False)
 
-bool_two = None
+bool_two = bool()
 
 bool_three = None
 
