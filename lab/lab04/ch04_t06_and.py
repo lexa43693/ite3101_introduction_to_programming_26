@@ -6,4 +6,4 @@ bool_three = bool(19 % 4 != 300 / 10 / 10 and False)
 
 bool_four = bool(-(1 ** 2) < 2 ** 0 and 10 % 10 <= 20 - 10 * 2)
 
-bool_five = bool()
+bool_five = bool(True and True)
