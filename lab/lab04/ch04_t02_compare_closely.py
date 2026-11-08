@@ -4,7 +4,7 @@
 bool_one = True  # We did this one for you!
 
 # Set this to True if 100 == (2 * 50) or to False otherwise.
-bool_two = bool()
+bool_two = bool(100 == (2 * 50))
 
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = bool()
