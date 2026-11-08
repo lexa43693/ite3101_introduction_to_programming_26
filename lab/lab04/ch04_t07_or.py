@@ -1,4 +1,4 @@
-bool_one = bool()
+bool_one = bool(2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur')
 
 bool_two = None
 
